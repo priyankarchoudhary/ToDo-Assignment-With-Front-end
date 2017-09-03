@@ -1,0 +1,50 @@
+
+.banner{
+    background-color: #fdfabd;
+    text-align: center;
+    padding: 20px 0 20px 0;
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.panel{
+    border-bottom: solid 1px black;
+    padding: 0 10% 10px 10%;
+}
+
+.todolist{
+    padding: 0 5%;
+}
+
+.item-main{
+    width: 60%;
+    display: inline-block;
+}
+
+.todostatusCOMPLETE {
+    color: green;
+    text-decoration: line-through;
+}
+
+.container {
+    width: 60%;
+    margin: 0 20%;
+    border: solid 5px #eeeeee;
+}
+
+.todostatusDELETED {
+    color : red;
+    text-decoration: line-through;
+}
+
+#button{
+    background-color: #99cafb;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 3px;
+}
+
+input[type='checkbox']{
+
+}
